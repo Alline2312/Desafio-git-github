@@ -40,7 +40,7 @@
 
     - Git remote -v : Lista 
 
-    - Git push origin master 
+    - Git push origin master/main 
 
       ### Servidor remoto p/ local 
 
