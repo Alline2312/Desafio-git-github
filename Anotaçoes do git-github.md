@@ -44,5 +44,5 @@
 
       ### Servidor remoto p/ local 
 
-      - Git pull origin master
+      - Git pull origin master/main
       - Git clone _link_
